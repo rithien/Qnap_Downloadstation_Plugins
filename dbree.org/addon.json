@@ -1,0 +1,44 @@
+{
+    "author": "rihien",
+    "website": "rithien.pl",
+    "name": "dbree.org",
+    "addon": "dbree.org.php",
+    "class": "dbree",
+    "hosts": [
+        "dbree.org"
+    ],
+    "domain": "dbree.org",
+    "version": 100,
+    "interface": [
+        "IDownload"
+    ],
+    "qpkg_dependencies": {
+        "DownloadStation": "5.0.1"
+    },
+    "description": {
+        "CZE": "",
+        "DAN": "",
+        "DUT": "",
+        "ENG": "dbree.org download plugin",
+        "ESM": "",
+        "FIN": "",
+        "FRE": "",
+        "GER": "",
+        "GRK": "",
+        "HUN": "",
+        "ITA": "",
+        "JPN": "",
+        "KOR": "",
+        "NOR": "",
+        "POL": "",
+        "POR": "",
+        "ROM": "",
+        "RUS": "",
+        "SCH": "",
+        "SPA": "",
+        "SWE": "",
+        "TCH": "",
+        "THA": "",
+        "TUR": ""
+    }
+}
